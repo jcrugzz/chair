@@ -1,0 +1,22 @@
+{
+  "name": "chair",
+  "version": "0.0.0",
+  "description": "Subjective CouchDB client that wraps nano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git://github.com/jcrugzz/chair.git",
+  "dependencies": {
+    "nano": "~3.3.6",
+    "extend": "~1.1.3"
+  },
+  "keywords": [
+    "CouchDB",
+    "nano",
+    "cradle"
+  ],
+  "author": "Jarrett Cruger <jcruger@qrhook.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
