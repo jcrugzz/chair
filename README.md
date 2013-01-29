@@ -2,6 +2,14 @@ Chair
 ====
 Relax, here is a nice comfy chair for your [CouchDB][couchdb].
 
+Install
+-------
+With [npm][npm] do
+
+```
+npm install chair
+```
+
 About:
 ------
 CouchDB module that wraps the clean api of [nano][nano] and steals a few features from
@@ -57,3 +65,4 @@ To both @dscape and @cloudhead for both of their modules.
 [nano]: https://github.com/dscape/nano
 [cradle]: https://github.com/cloudhead/cradle
 [couchdb]: http://couchdb.apache.org/
+[npm]: http://npmjs.org
