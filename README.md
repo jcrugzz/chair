@@ -12,7 +12,7 @@ npm install chair
 
 About:
 ------
-CouchDB module that wraps the clean api of [nano][nano] and steals a few features from
+CouchDB module that wraps the clean api of [nano][nano] and steals a feature from
 [cradle][cradle]. I found myself including both cradle and nano in a project
 just to use the easy design document saving of cradle. I decided in order to
 keep everything minimal, to implement a way to save views, allowing my views to
