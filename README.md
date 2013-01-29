@@ -46,6 +46,14 @@ TODO:
 * Tests
 * Docs (Check out [nano][nano] docs for most of the query functions)
 
+License
+======
+MIT
+
+Thanks
+======
+To both @dscape and @cloudhead for both of their modules.
+
 [nano]: https://github.com/dscape/nano
 [cradle]: https://github.com/cloudhead/cradle
 [couchdb]: http://couchdb.apache.org/
